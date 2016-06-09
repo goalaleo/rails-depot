@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: Kattila
-  description: Tämä on kattila
-  image_url: https://www.tokmanni.fi/productresources/pic1_big/6412450145202.jpg
-  price: 25.00
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
 
 two:
-  title: CoffeeScript
-  description: p | CoffeeScript is Javascript done right
-  image_url: http://seanamarasinghe.com/wp-content/uploads/2015/01/coffeescript-jquery-600x360.png
-  price: 36.00
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
